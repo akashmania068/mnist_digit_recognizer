@@ -1,5 +1,5 @@
 '''
-    Recognizing Hand-Written Digits (MNIST Dataset)
+    Converting ubyte files (MNIST Dataset) to importable csv files
 '''
 
 class ConvertUbyteToCSV:
