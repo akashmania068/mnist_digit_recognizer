@@ -2,6 +2,7 @@
   <dictionary name="KASH">
     <words>
       <w>mnist</w>
+      <w>preprocessing</w>
     </words>
   </dictionary>
 </component>
